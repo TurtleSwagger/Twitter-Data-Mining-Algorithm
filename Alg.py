@@ -3,10 +3,10 @@ from tweepy import OAuthHandler
 from tweepy import Stream
 import time
 
-consumer_key = 'XwpDx9d9wn959MrUkLBHF4zRd'
-consumer_secret = 'PnXqHE9SXRte55bM1RLmFjAdEPq51nwdNNSLplJAfCeJLJ9wJ7'
-access_token = '486590450-lXLlOU6jxp5xc6uVVWUoldOAQuZwbfLdlSaasVbc'
-access_secret = 'vOkzuIn1D9PoL10uX4l5nCZvzvtJBwh3TG8QlzWLouxKf'
+consumer_key = 'XXXXXXXXXXXX'
+consumer_secret = 'XXXXXXXXXXXXXXXXXXXX'
+access_token = 'XXXXXXXXXXXXXXXXXXXX'
+access_secret = 'XXXXXXXXXXXXXXXXXXXX'
 
 class StdOutListener(StreamListener):
 
